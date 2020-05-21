@@ -1,0 +1,38 @@
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.exe
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.deps.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.runtimeconfig.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.runtimeconfig.dev.json
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.dll
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.pdb
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.Views.dll
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\bin\Debug\netcoreapp3.1\Actividad 01.Views.pdb
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.csprojAssemblyReference.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.RazorAssemblyInfo.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.RazorAssemblyInfo.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.AssemblyInfoInputs.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.AssemblyInfo.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.TagHelpers.input.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.TagHelpers.output.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.RazorCoreGenerate.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.RazorTargetAssemblyInfo.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.RazorTargetAssemblyInfo.cs
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.Views.pdb
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\staticwebassets\Actividad 01.StaticWebAssets.Manifest.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\staticwebassets\Actividad 01.StaticWebAssets.xml
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.dll
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.pdb
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.genruntimeconfig.cache
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Actividad 01.csproj.CopyComplete
+C:\Users\Kenneth\Documents\projectsC\Actividad 01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Alumno.cshtml.g.cs

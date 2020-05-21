@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Actividad 01";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Ingrese sus datos</h1>
+    
+</div>
+<form action="/signup" method="post">
+  
+  <p>
+    <label>Nombres</label><br>
+    <input type="text" name="first_name"class="form-control">
+  </p>
+  <p>
+    <label>Apellidos</label><br>
+    <input type="text" name="last_name" class="form-control">
+  </p>
+  <p>
+    <label>Sexo</label><br>
+    <label>
+      <input type="radio" name="title" value="f">
+      Femenino
+    </label>
+    <label>
+      <input type="radio" name="title" value="m">
+      Masculino
+    </label>
+    
+  </p>
+  
+  <p>
+    <label>Curso Favorito</label><br>
+    <input type="text" name="CF" class="form-control">
+  </p>
+
+  <p>
+    <label>Hobbie</label><br>
+    <textarea name="hoobie" cols="30" rows="10" class="form-control"></textarea>
+  </p>
+  
+</form>
+
