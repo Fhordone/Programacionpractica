@@ -1,0 +1,16 @@
+﻿@model tarea.Models.Empleado
+@{
+    ViewData["Title"] = "Actividad 02";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Definir el sueldo anual</h1>
+</div>
+
+<form asp-action="EmpleadoCreate">
+    <label asp-for="sueldo" class="control-label"></label><br/>
+    <input asp-for="sueldo" class="form-control" /><br/>
+    <input type="submit" value="Calcular" class="btn btn-primary" />
+</form>
+<h1> @Html.DisplayFor(Model => Model.Mensaje) </h1>
+
