@@ -1,0 +1,64 @@
+﻿@model demomvc.Models.Contacto
+@{
+    ViewData["Title"] = "Empleado";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Ingrese los datos del contacto</p>
+
+<form asp-action="ContactoCreate">
+  <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+  <div class="form-group">
+    <label asp-for="FirstName" class="control-label"></label><br/>
+    <input asp-for="FirstName" class="form-control"/><br/>
+    <span asp-validation-for="FirstName" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="LastName" class="control-label"></label><br/>
+    <input asp-for="LastName" class="form-control"/><br/>
+    <span asp-validation-for="LastName" class="text-danger"></span>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="Email" class="control-label"></label><br/>
+    <input asp-for="Email" type="email" class="form-control"/><br/>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="Country" class="control-label"></label><br/>
+    <select asp-for="Country" class="form-control form-control-sm">
+        <option value="CH">China</option>
+        <option value="IN">India</option>
+        <option value="US">United States</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+  <label asp-for="Gender" class="control-label"></label><br/>
+  <label>
+      <input asp-for="Gender" type="radio" value="MA" class="form-check-input"/>
+      Masculino
+  </label><br/>
+  <label>
+      <input asp-for="Gender" type="radio" value="FE" class="form-check-input"/>
+      Femenino
+  </label><br/>
+  </div>
+  
+  <label>
+    <input asp-for="Agree" type="checkbox" class="form-check-input"/>
+    Estas de acuerdo con los terminos y condiciones
+   </label><br/>
+
+   <label asp-for="Operador1" class="control-label"></label><br/>
+  <input asp-for="Operador1"  class="form-control"/><br/>
+  
+   <label asp-for="Operador2" class="control-label"></label><br/>
+  <input asp-for="Operador2"  class="form-control"/><br/>
+
+  <input type="submit" value="Create" class="btn btn-primary" />
+</form>
+<h1> 
+   <!--@Html.DisplayNameFor(model => model.Mensaje)-->
+    @Html.DisplayFor(model => model.Mensaje)
+</h1>
