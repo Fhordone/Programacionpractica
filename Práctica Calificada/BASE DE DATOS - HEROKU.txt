@@ -1,0 +1,16 @@
+/*Base de datos creada en HEROKU */
+<-----Tabla creada en Dbeaver------>
+CREATE TABLE t_loan (
+id serial primary key,
+name varchar(45),
+loan_date date,
+original_amount decimal(10,2),
+rate decimal(10,2),
+total_amount decimal(10,2),
+status varchar(20)
+)
+
+insert into t_loan (name , loan_date , original_amount , rate , total_amount , status )
+values('Perez. Juan', '11/11/2013', 5000, 0.15, 5750, 'Open');
+
+select * from t_loan;

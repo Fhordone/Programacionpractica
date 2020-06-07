@@ -1,0 +1,49 @@
+﻿@model pc.Models.Create
+@{
+    ViewData["Title"] = "Create";
+}
+<center><h4>RAPID CASH</h4>
+<form asp-action="CCreate">
+<table border="0">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<tr>
+    <td width="40%">Name:</td>
+    <td width="60%"><input type="text" asp-for="name">
+    <span asp-validation-for="name" class="text-danger"></span>
+    </td>
+</tr>
+
+<tr>
+    <td width="40%">Date:</td>
+    <td width="60%"><input type="date" asp-for="loan_date" >
+    <span asp-validation-for="loan_date" class="text-danger"></span>
+    </td>
+</tr>
+<tr>
+    <td width="40%">Ammount:</td>
+    <td width="60%"><input type="number" asp-for="original_amount">
+    <span asp-validation-for="original_amount" class="text-danger"></span>
+    </td>
+</tr>
+<tr>
+    <td width="40%">Rate:</td>
+    <td width="60%">
+    <label asp-for="rate">
+      <input asp-for="rate" type="radio"  value=0.15>
+      15%
+    </label>
+    <label>
+      <input asp-for="rate" type="radio"  value=0.20>
+      20%
+    </label>
+    <span asp-validation-for="rate" class="text-danger"></span>
+    </td>
+    </table>
+  </tr>
+  <input type="submit" value="Apply" class="btn btn-primary"/>
+  </form>
+  </center>
+  <h2>
+     <center> @Html.DisplayFor(model => model.Mensaje) </center>
+  </h2>
+  
